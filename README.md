@@ -15,7 +15,7 @@ Ein Schiffe versenken spiel zum Latein Vokabeln lernen.
 # Probleme 
 Leider erkennt der Standart virenschutz von Windows das Spiel als Virus und wird es euch nicht spielen lassen.
 Falls ihr einen anderen Virenschutz habt, sollte das kein Problem sein.
-[Hier](https://www.virustotal.com/gui/file/f6b7f3ffe7a9664ad79f5b3a6e647b5c7dea637774df3289255964385cd7a117/detection) ein Link zu Virustotal(eine Website die das Spiel mit 60+ Virenscannern gescannt hat).
+[Hier](https://www.virustotal.com/gui/file/d83bbfc8e1cbc56491985814202a1c85867bbdd150c16c5f1d4c966025923aa0/detection) ein Link zu Virustotal(eine Website die das Spiel mit 60+ Virenscannern gescannt hat).
 
 Das Spiel ist noch nicht für Macs etc. verfügbar. Momentan nur für Windows PCs/ Laptops
 
