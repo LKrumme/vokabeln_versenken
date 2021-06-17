@@ -17,3 +17,7 @@ Leider erkennt der Standart virenschutz von Windows das Spiel als Virus und wird
 Falls ihr einen anderen Virenschutz habt, sollte das kein Problem sein.
 [Hier](https://www.virustotal.com/gui/file/f6b7f3ffe7a9664ad79f5b3a6e647b5c7dea637774df3289255964385cd7a117/detection) ein Link zu Virustotal(eine Website die das Spiel mit 60+ Virenscannern gescannt hat).
 
+# Fun fact
+* Das spiel hat 567 Zeilen Code
+* Hat ein bissl Lange gedauert
+* Ist für mein Lateinkurs
