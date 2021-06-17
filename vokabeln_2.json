@@ -1,0 +1,37 @@
+{
+    "wortschatz-fabeln":
+    {
+        "ad + Akk.":"zu, bei, an, für",
+        "agnus, agni":"Lamm", 
+        "ait":"er sie es sagt(e), er sie es sagt, er sie es sagte", 
+        "ante + Akk.":"vor", 
+        "bibere, bibo, bibi":"trinken", 
+        "causa, causae":"Grund, Anlass", 
+        "corripere, corrpio, -ripui, rreptum":"packen, ergreifen", 
+        "decurrere, decurro, -curri, -cursum":"herabfließen, herablaufen", 
+        "equidem":"freilich, aber...doch", 
+        "fabula, fabulae":"Geschichte, Erzählung, Fabel", 
+        "idem, eadem, idem Gen. eiusdem":"derselbe, dieselbe, dasselbe", 
+        "ille, illa, illud Gen. illius":"jener, jene, jenes", 
+        "improbus, improba, um":"böse, gierig", 
+        "iniustus, iniustio, um":"ungerecht", 
+        "innocens, innocentis":"unschuldig", 
+        "inquit":"er sie es sagt(e), er sie es sagt, er sie es sagte", 
+        "lupus, lupi":"Wolf", 
+        "maledicere, maledico, -dixi, -dictum + Dat.":"jdn. beleidigen", 
+        "mensis, mensis":"Monat", 
+        "nasci, nascor, natus sum":"geboren werden", 
+        "nex, necis":"Mord", 
+        "opprimere, opprimp, -pressi, -pressum":"unterdrücken", 
+        "propter + Akk.":"wegen", 
+        "queri, queror, questus sum + Akk.":"sich über etw. beklagen", 
+        "repellere, repello, reppuli, repulsum":"zurückstoßen, abwehren, zurückweisen", 
+        "respondere, respondeo, -spondi, -sponsum":"antworten",
+        "sitis, sitis":"Durst",
+        "stare, sto, steti":"stehen",
+        "tunc":"da, damals, dann",
+        "venire, venio, veni, ventum":"kommen",
+        "veritas, veritatis":"Wahrheit",
+        "vis, vim, vi Pl. vires, viritum":"Kraft, Gewalt"
+    }
+}
